@@ -1,0 +1,7 @@
+git clone https://github.com/CorpOfHack/Evil-Droid-RU.git
+cd Evil-DroidEvil-RU
+chmod 777 Evil-Droid-RU 
+cmod +x Evil-Droid-RU
+./evil-droid-ru
+ на этом все спасибо за внимание
+ 
